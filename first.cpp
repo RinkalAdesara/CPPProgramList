@@ -2,6 +2,8 @@
 using namespace std;
 void main(){
     int a,b;
+    int c;
     a=10,b=20;
-    cout<<"Addition is"<<a+b;
+    c=a+b;
+    cout<<"Addition is"<<c;
 }
